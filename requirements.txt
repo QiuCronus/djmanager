@@ -1,0 +1,8 @@
+celery==5.2.7
+Django==3.2.16
+django-simpleui==2022.12.18
+eventlet==0.33.3
+importlib-metadata==1.4.0
+PyMySQL==1.0.2
+python-dotenv==0.21.1
+redis==3.5.3
